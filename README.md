@@ -24,7 +24,7 @@ Connections between lcd display and arduino board:
 *Ermek Bakytov
 *Kubanychbek Mamanov
 
-Link for Thingverse ()
+Link for Thingverse (https://www.thingiverse.com/thing:4363458/files)
 Link for Youtube (https://www.youtube.com/watch?v=lcr29EAhzao)
 
 ##Parts list
