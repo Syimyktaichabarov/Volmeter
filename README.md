@@ -1,7 +1,7 @@
 # Volmeter
 Main goal of this project is to show to u volt of some electrical thing
 
-There is will two tweezers, by them u will touch some electrical thing that u want, after they LCD will show how many volt have thing that u toucing. There is one thing u must to know it will show only volt from 0 to 30. In another way on screen will just nothing.How u can see in image under arduino was 2 resistor (R1,R2) After when will print all of thing u can just connect tweezers to wires from this 2 resistor. 
+There is will two tweezers, by them u will touch some electrical thing that u want, after they LCD will show how many volt have thing that u toucing. There is one thing u must to know it will show only volt from 0 to 30. In another way on screen will just nothing.How u can see in image under arduino was 2 resistor (R1,R2) After when will print all of thing u can just connect tweezers to wires from this 2 resistor. Hole in cap of cover is 2.5 mm (diameter). 
 Connections between lcd display and arduino board:
 * R1 100kohm Resistor
 * R2 10kohm Resistor
